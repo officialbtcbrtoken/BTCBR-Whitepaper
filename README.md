@@ -1,2 +1,17 @@
 # BTCBR-Whitepaper
 Official BTCBR Whitepaper — Educational, community-driven blockchain learning project on BNB Smart Chain (BEP-20)
+# BTCBR Whitepaper
+
+*BTCBR Token (BEP-20)* is a community-driven, education-focused project on *BNB Smart Chain*.  
+This repository hosts the latest, canonical version of the BTCBR Whitepaper.
+
+- *Website:* https://btcbrtoken.com  
+- *Contract (BEP-20):* 0xcfb2e4764be5f6e179dbb49889bdb56e7a9f06fc  
+- *Explorer:* https://bscscan.com/token/0xcfb2e4764be5f6e179dbb49889bdb56e7a9f06fc  
+- *Twitter (X):* https://x.com/btcbr_official  
+- *Telegram (Official):* https://t.me/btcbr_official_1  
+- *Telegram (Community):* https://t.me/btcbr_community_chat
+## Download
+The latest PDF is available here:
+- *BTCBR_Whitepaper.pdf* (see files above or use the “Raw” direct link)
+
